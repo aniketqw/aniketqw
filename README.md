@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I think learning is a acquired taste**
 
-### Blogs posts
+<!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
