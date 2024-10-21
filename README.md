@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [realtime MCQ battle](https://github.com/aniketqw/websocket_mcqs1)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack** and **Spring Boot**
 
 - 👯 I’m looking to collaborate on [realtime MCQ battle](https://github.com/aniketqw/websocket_mcqs1)
 
