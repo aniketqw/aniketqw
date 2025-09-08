@@ -10,7 +10,7 @@
 
 - 💬 I love to talk about **Competitive coding and new AI and ML tech**
 
-- 📫 How to reach me **aniketsaxena627@gmail.com**
+- 📫 How to reach me **aniketsaxena627@gmail.com** and this is my [portofolio site](https://aniketqw.github.io/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11qX61dQ4zlXLXyw1akwZES80o-a-sxqT/view?usp=sharing](https://drive.google.com/file/d/11qX61dQ4zlXLXyw1akwZES80o-a-sxqT/view?usp=sharing)
 
